@@ -1,0 +1,16 @@
+{
+  "name": "deploySudokuSolver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dir"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mikem2m.github.io/Gh-pages-SudokuSolver",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
